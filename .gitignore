@@ -1,5 +1,6 @@
 *.exe
 *.out
+*.txt
 week5/exmp.c
 week5/task1
 week5/task2
@@ -9,3 +10,4 @@ week8/linked
 week8/assignment
 week10/binarytree*
 week10/task
+week11/binary_tree*
