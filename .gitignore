@@ -1,6 +1,7 @@
 *.exe
 *.out
 *.txt
+*.json
 week5/exmp.c
 week5/task1
 week5/task2
